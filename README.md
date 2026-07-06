@@ -36,3 +36,10 @@ Shadai Nayke Hernandez Bellido
 
 ## Universidad
 Universidad Privada San Juan Bautista
+| Indicador | Resultado |
+|---|---|
+| Total de defunciones analizadas | 169,258 |
+| Valor Chi-cuadrado | 681.74 |
+| p-value | 2.7909E-150 |
+| Nivel de significancia | 0.05 |
+| Resultado estadístico | Existen diferencias significativas según sexo |
